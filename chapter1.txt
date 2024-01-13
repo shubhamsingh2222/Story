@@ -1,1 +1,1 @@
-This is a test text file to make git repository
+It was the best of space, It was the worst of space.
